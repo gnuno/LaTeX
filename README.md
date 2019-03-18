@@ -2,7 +2,7 @@
 Repositorio oficial de archivos LaTeX para diferentes materias de la Universidad Nacional del Oeste.
 
 ## ¿Qué es LaTeX?
-De acuerdo con la página del proyecto * [The LaTex Project](https://www.latex-project.org/):
+De acuerdo con la página del proyecto [The LaTex Project](https://www.latex-project.org/):
 ```LaTeX es un sistema de edición de texto de alta calidad; incluye caracteristicas diseñadas para la producción de documentación científica y técnica. LaTeX es el estandar para la comunicación y publicación de documentos científicos. LaTeX está disponible como software libre```
 
 ## ¿Para qué?
